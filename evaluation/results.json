@@ -1,0 +1,94 @@
+{
+  "readability": {
+    "words": 93,
+    "sentences": 8,
+    "syllables": 138,
+    "words_per_sentence": 11.6,
+    "reading_ease": 69.5,
+    "grade_level": 6.5,
+    "reading_minutes": 1
+  },
+  "readability_label": "Standard, plain English",
+  "keywords": [
+    {
+      "word": "panels",
+      "count": 5,
+      "density": 8.2
+    },
+    {
+      "word": "system",
+      "count": 2,
+      "density": 3.3
+    },
+    {
+      "word": "load",
+      "count": 2,
+      "density": 3.3
+    },
+    {
+      "word": "years",
+      "count": 2,
+      "density": 3.3
+    },
+    {
+      "word": "power",
+      "count": 2,
+      "density": 3.3
+    }
+  ],
+  "summary_2": [
+    "Solar panels turn sunlight into electricity.",
+    "The panels last 25 years with little maintenance."
+  ],
+  "summary_3": [
+    "Solar panels turn sunlight into electricity.",
+    "The panels last 25 years with little maintenance.",
+    "Cleaning the panels twice a month keeps output high in dusty weather."
+  ],
+  "seo_title": "Solar Panels For Homes In Lahore - Complete Guide",
+  "seo_meta": "Learn solar panels for homes in lahore, including panels, system, load. Solar panels turn sunlight into electricity.",
+  "writer_outline": {
+    "title": "Solar Panels For Homes In Lahore - Complete Guide",
+    "opener": "Let's talk about solar panels for homes in lahore in plain words.",
+    "sections": [
+      "What solar panels for homes in Lahore means",
+      "Why solar panels for homes in Lahore matters now",
+      "How solar panels for homes in Lahore works, step by step",
+      "Common mistakes with solar panels for homes in Lahore",
+      "Practical tips for solar panels for homes in Lahore"
+    ],
+    "keywords_line": "panels, cost, net metering",
+    "closing": "Start with one small step on solar panels for homes in Lahore today, then build from there."
+  },
+  "writer_intro": "Let's talk about solar panels for homes in lahore in plain words. This guide covers solar panels for homes in lahore from the ground up, with a focus on panels, cost, net metering. By the end you will know what it is, why it matters, and exactly what to do next.",
+  "image_prompt": "A busy Lahore bazaar at dusk, photorealistic style, bright and hopeful mood, golden hour, highly detailed, sharp focus, professional composition, aspect ratio 16:9",
+  "code_explanation": {
+    "imports": [
+      "math"
+    ],
+    "functions": [
+      {
+        "name": "circle_area",
+        "args": [
+          "radius"
+        ],
+        "docstring": "Return the area of a circle.",
+        "lines": 3
+      }
+    ],
+    "classes": [
+      {
+        "name": "Shop",
+        "methods": [
+          "__init__",
+          "add",
+          "total"
+        ],
+        "docstring": "A tiny shop that tracks items and their prices."
+      }
+    ],
+    "lines": 15,
+    "branches": 1,
+    "summary": "Defines 1 class(es): Shop. Defines 1 top-level function(s): circle_area. Uses math. 15 non-empty lines, about 1 decision points (if/for/while/try blocks)."
+  }
+}
